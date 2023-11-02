@@ -22,15 +22,6 @@ button:hover {
   cursor: pointer;
 }
 
-.input-area {
-  background: skyblue;
-  width: 400px;
-  height: 30px;
-  padding: 8px;
-  margin: 8px;
-  border-radius: 8px;
-}
-
 .incompleat-area {
   background: lemonchiffon;
   width: 400px;
